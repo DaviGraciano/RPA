@@ -10,19 +10,12 @@ Este repositório contém um conjunto de ferramentas desenvolvidas em Python com
 - 📧 **Envio de e-mails automatizado**  
   Envia e-mails com anexos ou mensagens customizadas via SMTP.
 
-- ⬇️ **Download de arquivos da Azure**  
-  Realiza o download automático de arquivos armazenados em containers do Azure Blob Storage.
-
-- ⬆️ **Upload de arquivos para a Azure**  
-  Faz upload de arquivos locais diretamente para o Azure Blob Storage.
-
 ## 🧰 Tecnologias Utilizadas
 
-- Python 3.x  
+- Python 3  
 - Selenium  
 - Requests  
 - smtplib  
-- Azure SDK for Python (`azure-storage-blob`)  
 
 ## 🚀 Como Executar
 
