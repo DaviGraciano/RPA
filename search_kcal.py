@@ -6,8 +6,6 @@ from tqdm import tqdm
 
 def consulta_informacao(lista_alimentos):
 
-    
-
     #### declaro listas vazias apra montar um dicionario com as informacoes coletadas na api
     descricao = []
     quantidade = []
