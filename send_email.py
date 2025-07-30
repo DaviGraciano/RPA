@@ -1,7 +1,6 @@
 from seleniumwire import webdriver
 from selenium.webdriver.common.by import By
 import time
-import time
 
 def send_email(user, password, recivers, subject, body):
     options = webdriver.ChromeOptions()
